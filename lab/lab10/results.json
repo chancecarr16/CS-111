@@ -1,0 +1,39 @@
+{
+    "tests": [
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab10.py::test_random_rocks",
+            "output": "\u001b[2J\u001b[;HIteration 0\n0 0 0 \nb 0 0 \n0 0 0 \n0 b 0 \nb 0 0 \n\n\u001b[2J\u001b[;HIteration 1\nb 0 0 \n0 0 0 \n0 b 0 \nb 0 0 \n0 0 0 \n\n\u001b[2J\u001b[;HIteration 2\nb 0 0 \n0 b 0 \nb 0 0 \n0 0 0 \n0 0 0 \n\n\u001b[2J\u001b[;HIteration 3\nb b 0 \nb 0 0 \n0 0 0 \n0 0 0 \n0 0 0 \n\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab10.py::test_random_bubbles",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab10.py::test_modify_grid",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab10.py::test_bubble_up",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab10.py::test_move_bubbles",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab09.py::test_in_range1",
+            "output": "46 is True\n31 is True\n48 is True\n47 is True\n17 is True\n54 is True\n55 is True\n61 is True\n15 is True\n90 is True\n12 is True\n80 is True\n54 is True\n54 is True\n85 is True\n23 is True\n15 is True\n24 is True\n73 is True\n25 is True\n31 is True\n95 is True\n52 is True\n30 is True\n60 is True\n46 is True\n83 is True\n25 is True\n9 is True\n19 is True\n38 is True\n19 is True\n61 is True\n77 is True\n61 is True\n36 is True\n78 is True\n3 is True\n21 is True\n10 is True\n29 is True\n96 is True\n48 is True\n27 is True\n56 is True\n24 is True\n35 is True\n51 is True\n36 is True\n78 is True\n84 is True\n21 is True\n26 is True\n43 is True\n22 is True\n88 is True\n70 is True\n85 is True\n99 is True\n81 is True\n46 is True\n62 is True\n96 is True\n15 is True\n71 is True\n6 is True\n95 is True\n46 is True\n22 is True\n60 is True\n60 is True\n85 is True\n87 is True\n38 is True\n71 is True\n65 is True\n91 is True\n89 is True\n14 is True\n63 is True\n100 is True\n29 is True\n32 is True\n69 is True\n16 is True\n73 is True\nYour bad! 101 is not in the range.\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 8,
+            "max_score": 8,
+            "name": "test_lab09.py::test_in_range2",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_lab09.py::test_grid_get_and_set_out_of_bounds",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}
